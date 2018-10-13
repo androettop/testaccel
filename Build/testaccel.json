@@ -1,9 +1,9 @@
 {
 "companyName": "DefaultCompany",
 "productName": "RealSpace",
-"dataUrl": "rsbuild.data.unityweb",
-"wasmCodeUrl": "rsbuild.wasm.code.unityweb",
-"wasmFrameworkUrl": "rsbuild.wasm.framework.unityweb",
+"dataUrl": "testaccel.data.unityweb",
+"wasmCodeUrl": "testaccel.wasm.code.unityweb",
+"wasmFrameworkUrl": "testaccel.wasm.framework.unityweb",
 "TOTAL_MEMORY": 268435456,
 "graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
